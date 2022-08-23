@@ -1,0 +1,15 @@
+C:\Users\raehe\Desktop\Internship\overriding\overriding\bin\Debug\net6.0\overriding.exe
+C:\Users\raehe\Desktop\Internship\overriding\overriding\bin\Debug\net6.0\overriding.deps.json
+C:\Users\raehe\Desktop\Internship\overriding\overriding\bin\Debug\net6.0\overriding.runtimeconfig.json
+C:\Users\raehe\Desktop\Internship\overriding\overriding\bin\Debug\net6.0\overriding.dll
+C:\Users\raehe\Desktop\Internship\overriding\overriding\bin\Debug\net6.0\overriding.pdb
+C:\Users\raehe\Desktop\Internship\overriding\overriding\obj\Debug\net6.0\overriding.csproj.AssemblyReference.cache
+C:\Users\raehe\Desktop\Internship\overriding\overriding\obj\Debug\net6.0\overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raehe\Desktop\Internship\overriding\overriding\obj\Debug\net6.0\overriding.AssemblyInfoInputs.cache
+C:\Users\raehe\Desktop\Internship\overriding\overriding\obj\Debug\net6.0\overriding.AssemblyInfo.cs
+C:\Users\raehe\Desktop\Internship\overriding\overriding\obj\Debug\net6.0\overriding.csproj.CoreCompileInputs.cache
+C:\Users\raehe\Desktop\Internship\overriding\overriding\obj\Debug\net6.0\overriding.dll
+C:\Users\raehe\Desktop\Internship\overriding\overriding\obj\Debug\net6.0\refint\overriding.dll
+C:\Users\raehe\Desktop\Internship\overriding\overriding\obj\Debug\net6.0\overriding.pdb
+C:\Users\raehe\Desktop\Internship\overriding\overriding\obj\Debug\net6.0\overriding.genruntimeconfig.cache
+C:\Users\raehe\Desktop\Internship\overriding\overriding\obj\Debug\net6.0\ref\overriding.dll
