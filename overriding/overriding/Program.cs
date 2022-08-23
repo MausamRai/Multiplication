@@ -7,11 +7,10 @@ namespace std
     {
         public static void Main(string[] args)
         {
-            animal animal = new animal();
-            animal.Speak();
 
             dog dog = new dog();
             dog.Speak();
+            dog.Says();
 
             cat cat = new cat();
             cat.Speak();
@@ -19,12 +18,15 @@ namespace std
             Console.ReadLine();
         }
 
-        public class animal
+         public abstract class animal
         {
-            public virtual void Speak()
+            public abstract void Speak();
+
+            public void Says()
             {
-                Console.WriteLine("Animal makes sound");
+                Console.WriteLine("hello");
             }
+           
         }
 
         public class dog : animal
