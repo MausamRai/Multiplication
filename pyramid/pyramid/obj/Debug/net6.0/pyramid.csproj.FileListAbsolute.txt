@@ -1,0 +1,5 @@
+C:\Users\raehe\Desktop\Internship\pyramid\pyramid\obj\Debug\net6.0\pyramid.csproj.AssemblyReference.cache
+C:\Users\raehe\Desktop\Internship\pyramid\pyramid\obj\Debug\net6.0\pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raehe\Desktop\Internship\pyramid\pyramid\obj\Debug\net6.0\pyramid.AssemblyInfoInputs.cache
+C:\Users\raehe\Desktop\Internship\pyramid\pyramid\obj\Debug\net6.0\pyramid.AssemblyInfo.cs
+C:\Users\raehe\Desktop\Internship\pyramid\pyramid\obj\Debug\net6.0\pyramid.csproj.CoreCompileInputs.cache

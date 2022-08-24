@@ -1,0 +1,15 @@
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\bin\Debug\net6.0\pramid2.exe
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\bin\Debug\net6.0\pramid2.deps.json
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\bin\Debug\net6.0\pramid2.runtimeconfig.json
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\bin\Debug\net6.0\pramid2.dll
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\bin\Debug\net6.0\pramid2.pdb
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\obj\Debug\net6.0\pramid2.csproj.AssemblyReference.cache
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\obj\Debug\net6.0\pramid2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\obj\Debug\net6.0\pramid2.AssemblyInfoInputs.cache
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\obj\Debug\net6.0\pramid2.AssemblyInfo.cs
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\obj\Debug\net6.0\pramid2.csproj.CoreCompileInputs.cache
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\obj\Debug\net6.0\pramid2.dll
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\obj\Debug\net6.0\refint\pramid2.dll
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\obj\Debug\net6.0\pramid2.pdb
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\obj\Debug\net6.0\pramid2.genruntimeconfig.cache
+C:\Users\raehe\Desktop\Internship\pramid2\pramid2\obj\Debug\net6.0\ref\pramid2.dll

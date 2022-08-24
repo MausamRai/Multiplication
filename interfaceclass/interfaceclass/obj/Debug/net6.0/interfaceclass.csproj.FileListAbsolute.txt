@@ -1,0 +1,15 @@
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\bin\Debug\net6.0\interfaceclass.exe
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\bin\Debug\net6.0\interfaceclass.deps.json
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\bin\Debug\net6.0\interfaceclass.runtimeconfig.json
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\bin\Debug\net6.0\interfaceclass.dll
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\bin\Debug\net6.0\interfaceclass.pdb
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\obj\Debug\net6.0\interfaceclass.csproj.AssemblyReference.cache
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\obj\Debug\net6.0\interfaceclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\obj\Debug\net6.0\interfaceclass.AssemblyInfoInputs.cache
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\obj\Debug\net6.0\interfaceclass.AssemblyInfo.cs
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\obj\Debug\net6.0\interfaceclass.csproj.CoreCompileInputs.cache
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\obj\Debug\net6.0\interfaceclass.dll
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\obj\Debug\net6.0\refint\interfaceclass.dll
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\obj\Debug\net6.0\interfaceclass.pdb
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\obj\Debug\net6.0\interfaceclass.genruntimeconfig.cache
+C:\Users\raehe\Desktop\Internship\interfaceclass\interfaceclass\obj\Debug\net6.0\ref\interfaceclass.dll
