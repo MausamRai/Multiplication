@@ -3,34 +3,27 @@ class demo
 {
     public static void Main(string[] args)
     {
-        
-        int s = 4;
-        int coef;
-        for (int i = 1; i <= 5; i++)
+        int item = 0;
+        //loop for rows
+        for (int i = 0; i < 5; i++)
         {
-            for (s = 4; s >= i; s--)
+            //loop for spaces
+            for (int space = 4; space >= i; space--)
             {
                 Console.Write(" ");
             }
-            for (int j = 0; j < i ; j++)
+            //loop for columns
+            for (int j = 0; j <= i; j++)
             {
-                coef = 0;
-
-                if (j == 0 || i-1 == j) { coef = 1; }
-
-
+                if (j == 0)
+                { item = 1; }
                 else
                 {
-                    coef = coef + (i - j + 1);
-
-
+                    item = item * (i - j + 1) / j;
                 }
-                Console.Write(coef + " ");
-
-
+                Console.Write(item + " ");
             }
             Console.WriteLine();
-
         }
     }
 }
